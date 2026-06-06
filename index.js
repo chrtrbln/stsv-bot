@@ -13,7 +13,7 @@ const client = new Client({
 });
 
 client.once('ready', () => {
-  console.log(`Bot online as ${client.user.tag}`);
+  console.log(`Q pedo`);
 });
 
 client.login(process.env.TOKEN);
